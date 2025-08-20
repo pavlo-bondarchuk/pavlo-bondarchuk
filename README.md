@@ -17,8 +17,6 @@ I build clean, fast, and maintainable WordPress solutions: custom plugins, perfo
   Repo: https://github.com/pavlo-bondarchuk/interactive-map
 - **PageSpeed Test Runner** — continuous PSI automation tool.  
   Repo: https://github.com/pavlo-bondarchuk/pagespeedtest
-- **LUC Dentalutions** — Tailwind layout for a real-world project.  
-  Repo: https://github.com/pavlo-bondarchuk/LUC-Dentalutions
 
 ## Tech stack
 **WordPress, PHP, JS/HTML/CSS, Tailwind, Vue/React, Redis, OPcache, GitHub Actions**
