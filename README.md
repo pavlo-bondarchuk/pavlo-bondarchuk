@@ -10,13 +10,6 @@ I build clean, fast, and maintainable WordPress solutions: custom plugins, perfo
 - Modern JS (ES modules), Tailwind, Vue/React when needed
 - Automation for audits, PageSpeed, and CI pipelines
 
-## Featured work
-- **Simple Sticky TOC** — lightweight, mobile-friendly TOC plugin.  
-  Repo: https://github.com/pavlo-bondarchuk/simple-sticky-toc
-- **Interactive Map** — pure JS demo for interactive UI.  
-  Repo: https://github.com/pavlo-bondarchuk/interactive-map
-- **PageSpeed Test Runner** — continuous PSI automation tool.  
-  Repo: https://github.com/pavlo-bondarchuk/pagespeedtest
 
 ## Tech stack
 **WordPress, PHP, JS/HTML/CSS, Tailwind, Vue/React, Redis, OPcache, GitHub Actions**
