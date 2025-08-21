@@ -2,7 +2,7 @@
 
 I build clean, fast, and maintainable WordPress solutions: custom plugins, performance tuning (CWV), smart JS front-ends, and automation.
 
-[Website](https://bonddesign.top) · [GitHub](https://github.com/pavlo-bondarchuk)
+[Website](https://bonddesign.top)
 
 ## Highlights
 - WordPress plugins & custom themes
